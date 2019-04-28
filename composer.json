@@ -8,5 +8,7 @@
             "email": "diegoperezgonda@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.0"
+    }
 }

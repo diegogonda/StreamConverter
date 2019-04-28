@@ -1,6 +1,11 @@
 # StreamConverter
 Esta librería nos permite realizar la gestiona los contenidos de ficheros en distintos formatos.
 
+# Instalar
+```composer
+composer require diegogonda/stream-converter
+```
+
 # Cómo se usa
 ## Lectura
 Veamos un ejemplo en CSV:
