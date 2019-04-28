@@ -3,8 +3,7 @@
     "description": "Librería que nos permite leer y escribir ficheros en distintos formatos para gestionar su información",
     "keywords": ["json", "csv", "File reader"],
     "homepage": "https://github.com/diegogonda/StreamConverter//github.com/Seldaek/monolog",
-    "version": "1.0.0-dev",
-    "minimum-stability": "dev",
+    "version": "1.0.0",
     "type": "library",
     "authors": [
         {
