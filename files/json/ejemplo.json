@@ -1,0 +1,27 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "nombre 1",
+        "descripcion": "descripcion 1"
+    },
+    {
+        "codigo": 2,
+        "nombre": "nombre 2",
+        "descripcion": "descripcion 2"
+    },
+    {
+        "codigo": 3,
+        "nombre": "nombre 3",
+        "descripcion": "descripcion 3"
+    },
+    {
+        "codigo": 4,
+        "nombre": "nombre 4",
+        "descripcion": "descripcion 4"
+    },
+    {
+        "codigo": 5,
+        "nombre": "nombre 5",
+        "descripcion": "descripcion 5"
+    }
+]

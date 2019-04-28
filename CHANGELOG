@@ -1,0 +1,15 @@
+# Changelog
+Todos los cambios notables se indicarán en este fichero
+
+Basado en el formato [Mantén un changelog](https://keepachangelog.com/es-ES/1.0.0/),
+adheriéndonos al [Versionado semántico](https://semver.org/lang/es/).
+
+## [Unreleased]
+
+## [0.1.0] - 2019-04-28
+### Añadido
+- Lectura de ficheros CSV
+- Lectura de ficheros JSON
+- Escritura de ficheros CSV
+- Lectura de ficheros JSON
+- Gestor para la conversión de ficheros de unos formatos a otros

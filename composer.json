@@ -1,0 +1,12 @@
+{
+    "name": "diegogonda/stream-converter",
+    "description": "Librería que nos permite leer y escribir ficheros en distintos formatos para gestionar su información",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Diego",
+            "email": "diegoperezgonda@gmail.com"
+        }
+    ],
+    "require": {}
+}
